@@ -20,3 +20,6 @@ func BigBarks() string{
 func Form11(){
 	return(Println("Im'from version 1.1.0")
 }
+func Form12(){
+	return(Println("I'm from version1.2.0"))
+}
