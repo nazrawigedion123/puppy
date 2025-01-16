@@ -18,11 +18,11 @@ func BigBarks() string{
 	return dog.WhenGrownUp(Barks())
 }
 func Form11(){
-	return(fmt.Println("Im'from version 1.1.0"))
+	return("Im'from version 1.1.0")
 }
 func Form12(){
-	return(fmt.Println("I'm from version1.2.0"))
+	return("I'm from version1.2.0")
 }
 func Form13(){
-	return(fmt.Println("I'm from version 1.3.0"))
+	return("I'm from version 1.3.0")
 }
